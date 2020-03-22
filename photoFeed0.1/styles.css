@@ -1,0 +1,60 @@
+body{
+  background-color: black;
+  margin: 0;
+  font-family: 'Roboto'
+}
+
+.container{
+  background-color: #f1f1f1;
+  position: absolute;
+  width: 80%;
+  margin-left:10%;
+  margin-right: 10%;
+  padding-bottom: 40px;
+}
+
+header{
+  padding-top: 1px;
+  background-color: white;
+}
+
+h1{
+  padding-left: 27%;
+  padding-bottom: 1%;
+}
+
+h3{
+  padding-left: 12px;
+  float: left;
+}
+
+h4{
+  color: #999999;
+  padding-right: 12px;
+  float: right;
+}
+
+p{
+  padding-left: 12px;
+  float: left;
+}
+
+b{
+  float: right;
+  padding: 12px;
+}
+
+.foto{
+  background-color: white;
+  width: 500px;
+  height: auto;
+  margin: 50px;
+  margin-left: 27%;
+  display: inline-block;
+}
+
+#logo{
+  height: 40px;
+  width: 40px;
+  float: right;
+}
